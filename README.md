@@ -1,14 +1,14 @@
-# yettel-hypernet
+# yettel-hipernet
 
 Русский · [Srpski](#srpski)
 
-Расшифровка резервной копии настроек роутера ZTE ZXHN H298Q V7, который Yettel выдаёт с Hypernet.
+Расшифровка резервной копии настроек роутера ZTE ZXHN H298Q V7, который Yettel выдаёт с Hipernet.
 Роутер отдаёт копию настроек зашифрованной. В расшифрованной копии читаются логин и пароль PPPoE и
 пароль администратора: они нужны, чтобы подключить вместо него свой роутер или войти в настройки
 администратором.
 
 Мне это понадобилось, чтобы достать пароль PPPoE из роутера, который Yettel выдал мне к договору
-Hypernet примерно в 2023 году. Модель взята из подписи в самом файле настроек: `ZXHN H298Q V7.0`.
+Hipernet примерно в 2023 году. Модель взята из подписи в самом файле настроек: `ZXHN H298Q V7.0`.
 
 ## Что здесь лежит
 
@@ -22,8 +22,8 @@ Hypernet примерно в 2023 году. Модель взята из под�
 1. Склонируйте репозиторий вместе с подмодулями:
 
    ```sh
-   git clone --recurse-submodules https://sarak.sh/mikluko/yettel-hypernet.git
-   cd yettel-hypernet
+   git clone --recurse-submodules https://sarak.sh/mikluko/yettel-hipernet.git
+   cd yettel-hipernet
    ```
 
 2. Установите утилиту в виртуальное окружение:
@@ -89,8 +89,8 @@ otprilike 2023. godine. Model je preuzet iz potpisa u samom fajlu sa podešavanj
 1. Klonirajte repozitorijum zajedno sa podmodulima:
 
    ```sh
-   git clone --recurse-submodules https://sarak.sh/mikluko/yettel-hypernet.git
-   cd yettel-hypernet
+   git clone --recurse-submodules https://sarak.sh/mikluko/yettel-hipernet.git
+   cd yettel-hipernet
    ```
 
 2. Instalirajte alat u virtuelno okruženje:
