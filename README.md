@@ -7,6 +7,9 @@
 пароль администратора: они нужны, чтобы подключить вместо него свой роутер или войти в настройки
 администратором.
 
+Мне это понадобилось, чтобы достать пароль PPPoE из роутера, который Yettel выдал мне к договору
+Hypernet примерно в 2023 году. Модель взята из подписи в самом файле настроек: `ZXHN H298Q V7.0`.
+
 ## Что здесь лежит
 
 - `zte-config-utility` — подмодуль: версия утилиты от rajkosto, которая поддерживает этот роутер.
@@ -69,6 +72,10 @@ Dešifrovanje rezervne kopije podešavanja rutera ZTE ZXHN H298Q V7, koji Yettel
 Ruter izvozi kopiju podešavanja šifrovanu. U dešifrovanoj kopiji čitaju se korisničko ime i lozinka
 za PPPoE i administratorska lozinka: potrebni su da biste umesto njega povezali svoj ruter ili se u
 podešavanja prijavili kao administrator.
+
+Meni je ovo trebalo da izvučem PPPoE lozinku iz rutera koji mi je Yettel dao uz ugovor za Hipernet,
+otprilike 2023. godine. Model je preuzet iz potpisa u samom fajlu sa podešavanjima:
+`ZXHN H298Q V7.0`.
 
 ## Šta se ovde nalazi
 
