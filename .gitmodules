@@ -1,0 +1,6 @@
+[submodule "zte-config-utility"]
+	path = zte-config-utility
+	url = https://github.com/rajkosto/zte-config-utility.git
+[submodule "Xiaomi-cloud-tokens-extractor"]
+	path = Xiaomi-cloud-tokens-extractor
+	url = https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor.git
